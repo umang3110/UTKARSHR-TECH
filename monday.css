@@ -1,0 +1,329 @@
+body{
+    font-family: sans-serif ;
+    margin: 0;
+    background-color: rgb(121, 67, 67);
+}
+
+
+
+
+
+.m{
+    position: sticky;
+    display: flex;
+    background-color: rgb(50, 46, 46);
+    justify-content: space-between;
+    color: antiquewhite;
+    height: 50px;
+    top: 0;
+}
+.o{
+    padding: 15px 0px 0px 25px;
+    position: sticky;
+}
+.d{
+    padding: 15px 20px 0px 0px;
+    height: 25px;
+    position: sticky;
+}
+
+
+
+
+
+.t{
+    background-color: black;
+    display: flex;
+    position: sticky;
+    width: 100%;
+    height: 16vh;
+}
+.u{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.e{
+    display: flex;
+    color: aliceblue;
+    justify-content: space-evenly;
+    padding-left: 140px;
+    padding-top: 15px;
+}
+.wwwww{
+    padding-left: 50px;
+}
+.aaaaa{
+    padding-left: 120px;
+}
+.ccccc{
+    padding-left: 120px;
+}
+.shshsh{
+    padding-left: 120px;
+    padding-top: 7px;
+}
+
+
+
+
+
+.main11{
+    background-image: url(https://wallpapers.com/images/hd/red-aesthetic-laptop-red-sky-nu4dfmpd21mgozcr.jpg);
+    height: 100vh;
+    width: 1150px;
+    margin-top: 0;
+}
+.both{
+    color: beige;
+    padding: 5px;
+    text-align: center;
+    padding-top: 100px;
+}
+.weare{
+    text-align: center;
+}
+.studio{
+    text-align: center;
+}
+.h22{
+    text-align: center;
+    padding-top: 25px;
+}
+.digi{
+    text-align: center;
+}
+.talking{
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+
+
+
+
+.picture{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/019/883/113/non_2x/yellow-orange-gradient-blur-abstract-background-free-vector.jpg);
+    height: 165vh;
+    margin-top: 0;
+    width: 1150 px;
+}
+.work{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.qq{
+    padding-left: 33px;
+    padding-top: 15px;
+}
+.ww{
+    padding: 50px;
+    color: black;
+}
+.threepic{
+    display: flex;
+    padding-left: 50px;
+    justify-content: space-evenly;
+}
+.arrow1{
+    padding-top: 125px;
+    padding-right: 10px;
+}
+.arrow2{
+    padding-top: 125px;
+    padding-right: 10px;
+}
+.arrow3{
+    padding: 50px;
+}
+.arrow4{
+    display: flex;
+    padding-left: 75px;
+    padding-top: 0px;
+}
+.arrow8{
+    padding-left: 475px;
+    padding-top: 15px;
+}
+.arrow9{
+    padding-top:15px;
+    padding-left: 15px;
+}
+.arrow10{
+    padding-top:15px;
+    padding-left: 15px;
+}
+.arrow11{
+    padding-top:15px;
+    padding-left: 15px;
+}
+.arrow12{
+    padding-top:15px;
+    padding-left: 15px;
+}
+
+
+
+.papa{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqtrGA2e6zMX6wHu18k-GqZCA7YixBxAiqQA&s);
+    width: 10vx;
+    height: 200vh;
+    margin-top: 0;
+}
+.mummy{
+    padding-left: 35px;
+    padding-top:1px ;
+}
+.leena{
+    padding-left: 33px;
+    padding-top: 15px;
+}
+.didi{
+    display: flex;
+justify-content: space-evenly;
+}
+.dadiji{
+    padding-left: 50px;
+    width: 985px;
+    height: 10px;
+    padding-top: 50px;
+}
+
+
+.dadi{
+    display: flex;
+    padding-left: 75px;
+    padding-top: 0px;
+}
+.dadia{
+    padding-top: 100px;
+}
+.dadic{
+    padding-left: 70px;
+}
+.dadid{
+    padding-left: 50px;
+}
+.dadajii{
+    display: flex;
+}
+.dadie{
+    padding-left: 45px;
+}
+.dadif{
+    padding-left: 7px;
+}
+.dadig{
+    padding-left: 9px;
+}
+
+
+.nanaji{
+    padding-top: 100px;
+    padding-left: 75px;
+}
+.mamaji{
+    padding-left: 35px;
+}
+.mamiji{
+    padding-left: 58px;
+}
+.nikku{
+    display: flex;
+    padding-left: 50px;
+}
+.nikku1{
+    padding-left: 5px;
+}
+.nikku2{
+    padding-left: 7px;
+}
+.nikku3{
+    padding-left: 9px;
+}
+
+
+.crcrcr{
+    padding-left: 50px;
+    width: 985px;
+    height: 10px;
+    padding-top: 50px;
+}
+
+.concon{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+
+}
+
+
+
+
+
+.a1a{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/019/883/113/non_2x/yellow-orange-gradient-blur-abstract-background-free-vector.jpg);
+    height: 165vh;
+    margin-top: 0;
+    width: 1150px;
+}
+.b1b{
+    padding-top: 50px;
+}
+.coco{
+    padding-left: 50px;
+    width: 985px;
+    height: 10px;
+    padding-top: 50px;
+}
+.bobo{
+      text-align: center;
+      padding-top: 75px;
+}
+.dodo{
+    text-align: center;
+    padding-top: 35px;
+}
+.gogo{
+    padding-left: 50px;
+    width: 985px;
+    height: 10px;
+    padding-top: 50px;
+}
+
+.elephant{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 75px;
+}
+.lion1{
+    padding-left: 85px;
+}
+.tiger1{
+    padding-left: 85px;
+}
+
+
+
+.kiol{
+    background-color: black;
+    height: 38vh;
+    width: 1150px;
+}
+.log{
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 5px;
+}
+.log1{
+    padding-right: 15px;
+}
+.log3{
+    padding-left: 15px;
+}
+
+.gol1{
+    text-align: center;
+    padding-top: 30px;
+}
